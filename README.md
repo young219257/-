@@ -1,1 +1,1 @@
-# mobileprogrammingproject
+# 도시 열섬 프로젝트 <쓰랑께>
