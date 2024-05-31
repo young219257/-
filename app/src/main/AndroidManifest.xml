@@ -22,7 +22,7 @@
         <!-- 여기 구글맵 api자리 -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBYHo6BCLUqWqYkC3HURKOw_TashkM8LHc"/>
+            android:value=""/>
 
         <!--        시작로딩-->
         <activity android:name=".IntroActivity"
