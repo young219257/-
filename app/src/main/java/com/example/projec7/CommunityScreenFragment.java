@@ -98,8 +98,12 @@ public class CommunityScreenFragment extends Fragment  {
         waterCar=rootView.findViewById(R.id.WaterCarButton);
         searchView = rootView.findViewById(R.id.search);
         recyclerView = rootView.findViewById(R.id.recyclerView);
-        recyclerView.setLayoutManager(new LinearLayoutManager(requireContext()));
+        LinearLayoutManager layoutManager = new LinearLayoutManager(requireContext());
+        layoutManager.setReverseLayout(true);  // 최신 글이 위로 올라오도록 설정
+        layoutManager.setStackFromEnd(true);   // 리스트가 아래에서부터 쌓이도록 설정
 
+// RecyclerView에 LayoutManager 설정
+        recyclerView.setLayoutManager(layoutManager);
         // DBHelper에서 데이터 가져오기
         DBHelper dbHelper = new DBHelper(getActivity());
 
@@ -186,7 +190,6 @@ public class CommunityScreenFragment extends Fragment  {
     private void performSearch(String query) {
         DBHelper dbHelper = new DBHelper(getActivity());
         List<Post> searchResults = dbHelper.searchPosts(query);
-
         adapter.setPosts(searchResults);
         adapter.notifyDataSetChanged();
     }
