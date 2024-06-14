@@ -1,10 +1,15 @@
 # 도시 열섬 프로젝트 <쓰랑께>
 2023년 모바일 프로그래밍 프로젝트
+
 # 프로젝트 소개 
 교수님께서 내주신 도시 열섬 현상 관련 주제를 통해, 시민들의 피해를 최소화하기 위한 프로젝트를 제작했습니다. 이 프로젝트는 도시 열섬 데이터를 시각화하여 사용자가 시각적으로 도시 열섬 지역을 쉽게 확인할 수 있도록 합니다. 이를 통해 생기는 피해를 줄이기 위해, 도시에 위치한 무더위 쉼터와 햇빛을 막아주는 공유 우산의 위치와 수량을 확인할 수 있습니다. 또한, 도시 열섬에 대한 정보를 공유하기 위한 커뮤니티를 제공하여 다른 사용자들과 소통할 수 있도록 했습니다. 이러한 기능들을 통해 사용자는 도시 열섬으로부터의 피해를 효과적으로 줄일 수 있습니다.
+
 # 기술스택
-사용 언어
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+##사용 언어
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=mysql&logoColor=white"/> 
+
+## 개발환경
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white"/> 
 
 
 
