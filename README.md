@@ -6,13 +6,13 @@
 ## ⌛Develop Period
 2023.10.03 ~ 2024.12.21
 ## 🦾Development Environment
-● lang: Java 17
-● IDE: Android Studio
-● Android compileSdk 34
-● Android tartgetSdk 34
-● emulator: Pixel 7 Pro API 34
-● external library : VectorChildFinder
-● database: MySQL, SQLlite
+● lang: Java 17\n
+● IDE: Android Studio\n
+● Android compileSdk 34\n
+● Android tartgetSdk 34\n
+● emulator: Pixel 7 Pro API 34\n
+● external library : VectorChildFinder\n
+● database: MySQL, SQLlite\n
 
 
 <img width="80%" src="https://github.com/young219257/HeatIsland_mobileAPP/assets/138704514/d6823c15-b90e-49f9-ad72-66657ed802b1.png"/>
