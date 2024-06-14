@@ -6,10 +6,10 @@
 
 # 기술스택
 
-## 사용 언어
+### Language
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=mysql&logoColor=white"/> 
 
-## 개발환경
+### Development
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white"/> 
 
 
